@@ -1,0 +1,16 @@
+.input{
+    width: '100%';
+    border : '2px solid red';
+    box-sizing: 'border-box';
+    border: '2px solid red';
+    border-radius : '4px';
+    display: block;
+}
+.myCard{
+    box-shadow : '3px 3px';
+    background-color: 'purple';
+}
+.myBtn{
+    display: block;
+
+}
