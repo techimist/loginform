@@ -1,16 +1,42 @@
 .input{
-    width: '100%';
-    border : '2px solid red';
-    box-sizing: 'border-box';
-    border: '2px solid red';
-    border-radius : '4px';
+    width:50%;
+    height: 55px;
+    border: 2px solid #a24242;
+    box-sizing: border-box;
     display: block;
+    /* transform: scale(2, 2); */
+    /* margin-top: 30px; */
+    margin:auto;
+    background-color: #3f166b;
+    border-radius: 4px; 
+    padding-left:20px;
 }
-.myCard{
-    box-shadow : '3px 3px';
-    background-color: 'purple';
+.myHeading{
+    margin-top: -100px;
+}
+/* .myCard1{
+    box-shadow: 3px 3px;    
+    width: 75%;
+    height: 75%;
+    margin :auto;
+} */
+.myCard{    
+    box-shadow : 3px 3px;
+    padding: 35px;
+    background: linear-gradient(to right, #5e4aa7, #6245a4, #6640a1, #693a9d, #6d3499);    
+    width: 95vh;
+    height: 75vh;
+    margin: auto;
 }
 .myBtn{
     display: block;
+    height:55px;
+    /* transform: scale(2, 2); */
+    width:50%;
+    /* margin-left:10px;
+    margin-top: 40px; */
+    margin:auto;    
+    padding:20px;
+    border-radius: 8px;
 
 }
